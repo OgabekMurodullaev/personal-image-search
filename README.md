@@ -33,7 +33,8 @@ Additionally, the project explores **Retrieval-Augmented Generation (RAG)** tech
 
 ```bash
 git clone https://github.com/ogabekmurodullaev/personal-image-search.git
-cd personal-image-search```
+cd personal-image-search
+```
 
 2. Create a virtual environment and install dependencies:
 ```bash
@@ -41,7 +42,8 @@ python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 3. Run Weaviate using Docker:
 ```bash
